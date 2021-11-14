@@ -1,2 +1,2 @@
 # git-github
-sca demo
+sca demo via edureka
